@@ -8,12 +8,12 @@
     <p>Watch One Piece in 40% of the time</p>
 </a>
 
-<a href="OnePieceGuide/guide" style="background: #111; padding: 20px; border-radius: 12px; width: 200px;" >
+<a href="/guide" style="background: #111; padding: 20px; border-radius: 12px; width: 200px;" >
     <p>📦 <strong style="color: #fef08a;">Official Episodes</strong></p>
     <p>Ideal Guide for Official Episodes</p>
 </a>
 
-<a href="OnePieceGuide/extras" style="background: #111; padding: 20px; border-radius: 12px; width: 200px;" >
+<a href="/extras" style="background: #111; padding: 20px; border-radius: 12px; width: 200px;" >
     <p>📦 <strong style="color: #fef08a;">Extras</strong></p>
     <p>Manga, Openings and more</p>
 </a>
